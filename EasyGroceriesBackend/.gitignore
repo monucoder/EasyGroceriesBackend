@@ -1,0 +1,52 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build Results
+bin/
+obj/
+Debug/
+Release/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.log
+*.DS_Store
+*.dbmdl
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Dotnet tools
+.tool/
+
+# Publish Folder
+publish/
+out/
+
+# Local History
+.history/
+
+# Temporary Files
+*.tmp
+*.bak
+*.old
+
+# User Secrets
+secrets.json
+
+# Rider IDE
+.idea/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Optional: Ignore launchSettings if you have environment-specific ports
+# Properties/launchSettings.json
